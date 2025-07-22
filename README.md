@@ -8,9 +8,11 @@
 A sophisticated web application built with Streamlit that predicts employee salaries using a powerful XGBoost machine learning model. This project demonstrates an end-to-end data science workflow, from model training to a polished, interactive, and deployable web application.
 
 ---
-
+### **Live Application:** [**🚀 View the Deployed App Here!**](https://naswhbvaa7qtvnvxn36yau.streamlit.app/)
 
 <!-- Add a screenshot of your beautiful app! -->
+![AI Salary Oracle Screenshot](https://github.com/Ayush03A/Employe-Salary-Prediction-Using-ML/blob/5e98565e81625cc63ca5c2e816d74e0e844d259a/Screenshots/Website.png)
+
 
 ---
 
