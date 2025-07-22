@@ -48,7 +48,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/kalyan-kim/employee_salary_prediction.git
+    git clone https://github.com/akash5800/employee_salary_prediction.git
     cd employee_salary_prediction
     ```
 
