@@ -187,7 +187,7 @@ st.markdown("---")
 st.markdown("""
 <div class="footer">
     <p>Made by <b>Akash Patel</b></p>
-    <a href="https://github.com/akash5800" target="_blank">GitHub</a> | 
+    <a href="https://github.com/akash5800/Employee_Salary_predictor/blob/main/app.py" target="_blank">GitHub</a> | 
     <a href="https://www.linkedin.com/in/akash-patel-218033290/" target="_blank">LinkedIn</a>
 </div>
 """, unsafe_allow_html=True)
