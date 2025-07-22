@@ -80,7 +80,7 @@ st.markdown("""
 @st.cache_data
 def load_all_assets():
     model_data = joblib.load("salary_predictor.pkl")
-    eval_plot = Image.open("images/plot.png")
+    eval_plot = Image.open("plot.png")
     return model_data, eval_plot
 
 model_data, eval_plot = load_all_assets()
