@@ -9,7 +9,6 @@ A sophisticated web application built with Streamlit that predicts employee sala
 
 ---
 
-### **Live Application:** [**🚀 View the Deployed App Here!**](https://employe-salary-prediction-using-ml-4xk5frvaqtl3fuvwn5w5cu.streamlit.app/)
 
 <!-- Add a screenshot of your beautiful app! -->
 
