@@ -8,7 +8,7 @@
 A sophisticated web application built with Streamlit that predicts employee salaries using a powerful XGBoost machine learning model. This project demonstrates an end-to-end data science workflow, from model training to a polished, interactive, and deployable web application.
 
 ---
-### **Live Application:** [**🚀 View the Deployed App Here!**](https://naswhbvaa7qtvnvxn36yau.streamlit.app/)
+### **Live Application:** [**🚀 View the Deployed App Here!**](https://youvisitedakash-project13171.streamlit.app/)
 
 
 
