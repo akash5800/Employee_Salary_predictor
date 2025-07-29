@@ -100,7 +100,7 @@ if 'prediction_made' not in st.session_state:
 # ======================================================================================
 st.markdown("""
 <div style="text-align: center; padding: 2rem 1rem;">
-    <h1 style="font-size: 4rem; font-family: 'Segoe UI', sans-serif; color: red;">
+    <h1 style="font-size: 4rem; font-family: 'Segoe UI', sans-serif; color: #ffffff;">
          <i>"Predict Your Salary"</i>💼 
     </h1>
     <h2 style="color: #cbd5e1; font-size: 1.6rem;">
