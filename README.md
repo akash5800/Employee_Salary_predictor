@@ -11,9 +11,6 @@ A sophisticated web application built with Streamlit that predicts employee sala
 ### **Live Application:** [**🚀 View the Deployed App Here!**](https://youvisitedakash-project13171.streamlit.app/)
 
 
-
----
-
 ## ✨ Key Features
 
 *   **Interactive UI with Glassmorphism:** A stunning and modern user interface built with Streamlit and custom CSS, featuring a "glassmorphism" design for a professional look and feel.
@@ -94,4 +91,5 @@ The predictive power of this application comes from a carefully constructed mach
 *   **Persistence:** The entire pipeline, including the trained model, encoders, and scaler, is saved into a single `salary_predictor.pkl` file using `joblib` for easy and error-free loading during inference.
 
 ---
+
 
